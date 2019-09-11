@@ -1,6 +1,6 @@
-# Agora
+# Empire
 
-> A simple Vue.js marketplace app built for the decentralized web.
+> A simple marketplace app built for the decentralized web.
 
 ## Build Setup
 
