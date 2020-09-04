@@ -23,7 +23,7 @@
     "heroku-logger": "^0.3.1",
     "jquery": "^3.3.1",
     "material-design-icons-iconfont": "^3.0.3",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "qrious": "^4.0.2",
     "raven-js": "^3.27.0",
     "sass-loader": "^6.0.5",
