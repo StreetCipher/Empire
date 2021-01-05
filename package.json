@@ -12,7 +12,7 @@
     "heroku-postbuild": "echo Skip build on Heroku"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "blockstack": "18.3.0",
     "bootstrap-sass": "^3.4.1",
     "connect-history-api-fallback": "^1.5.0",
